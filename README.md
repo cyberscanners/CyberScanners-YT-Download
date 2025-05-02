@@ -10,4 +10,8 @@ $ pkg install python ffmpeg
 
 $ pip install yt-dlp
 
-$ git clone 
+$ git clone https://github.com/cyberscanners/CyberScanners-YT-Download.git
+
+$ cd CyberScanners-YT-Download
+
+$ bash Download.sh
